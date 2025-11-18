@@ -65,7 +65,7 @@ Contains buttons for each dosha type
 
 Displays foods in a TextView
 
-▶️ How to Run
+Output :
 
 Download or clone the project
 
