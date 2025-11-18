@@ -75,7 +75,7 @@ Let Gradle sync
 
 Connect an Android device or start an emulator
 
-Click Run ▶
+Output :
 
 <table>
   <tr>
