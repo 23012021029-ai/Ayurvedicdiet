@@ -80,16 +80,16 @@ Click Run ▶
 <table>
   <tr>
     <td>
-      ![WhatsApp Image 2025-11-18 at 11 52 46_c99daa4a](https://github.com/user-attachments/assets/d6af8274-56fb-4a52-8504-f2744e285e6b)
+    <img width="385" height="827" alt="image" src="https://github.com/user-attachments/assets/8dbf89a1-bc03-45d5-b260-535c6029bdb7" />
     </td>
     <td>
-      ![WhatsApp Image 2025-11-18 at 11 52 46_e1024dbc](https://github.com/user-attachments/assets/5c1419a2-f995-47f1-858d-2f24d466c3d1)
+    <img width="368" height="678" alt="image" src="https://github.com/user-attachments/assets/d92d0d14-459b-4445-aae1-b683a85e81a8" />
     </td>
     <td>
-      ![WhatsApp Image 2025-11-18 at 11 52 47_d468f079](https://github.com/user-attachments/assets/4870c790-a900-4d7b-a5af-6bca0307b8e1)
+     <img width="389" height="670" alt="image" src="https://github.com/user-attachments/assets/fb8ea86b-5dcc-47c9-9637-d3c5ebb22eb2" />
     </td>
     <td>
-      ![WhatsApp Image 2025-11-18 at 11 52 47_cc87dbe1](https://github.com/user-attachments/assets/805c3089-1133-480c-9c78-4ef14cf552c5)
+    <img width="381" height="714" alt="image" src="https://github.com/user-attachments/assets/28ca26e2-41e3-40c0-8224-63c1fdbd01d6" />
     </td>
   </tr>
 </table>
